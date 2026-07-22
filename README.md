@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:222222&height=220&section=header&text=Madhav%20Vashistha&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:222222&height=220&section=header&text=Madhav%20Vashistha&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%" />
 </h1>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=550&lines=Frontend+Developer+%7C+Competitive+Programmer;Full-Stack+Architect+%7C+AI%2FML+Enthusiast;Building+Scalable+Digital+Ecosystems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=620&lines=Frontend+Developer+%7C+Competitive+Programmer;Full-Stack+Architect+%7C+AI%2FML+Enthusiast;Building+Scalable+Digital+Ecosystems" alt="Typing SVG" />
 
 </div>
 
