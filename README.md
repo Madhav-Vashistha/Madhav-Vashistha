@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=620&lines=Frontend+Developer+%7C+Competitive+Programmer;Full-Stack+Architect+%7C+AI%2FML+Enthusiast;Building+Scalable+Digital+Ecosystems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=620&lines=Web+Developer+%7C+Competitive+Programmer;Full-Stack+Architect+%7C+AI%2FML+Enthusiast;Building+Scalable+Digital+Ecosystems" alt="Typing SVG" />
 
 </div>
 
@@ -15,7 +15,7 @@
 ## About Section
 
 <p align="justify">
-I am <b>Madhav Vashistha</b>, a Computer Science and Engineering undergraduate with a strong foundation in software engineering, frontend architecture, and competitive programming. My technical expertise spans C/C++, Python, JavaScript, and modern web frameworks like React, Next.js, and Node.js. Driven by a product-engineering mindset, I specialize in building responsive web applications, secure cloud integrations, and robust automated systems. I am deeply passionate about algorithmic problem-solving, artificial intelligence, and open-source development.
+I am <b>Madhav Vashistha</b>, a Computer Science and Engineering undergraduate with a strong foundation in software engineering, website architecture, and competitive programming. My technical expertise spans C/C++, Python, JavaScript, and modern web frameworks like React, Next.js, and Node.js. Driven by a product-engineering mindset, I specialize in building responsive web applications, secure cloud integrations, and robust automated systems. I am deeply passionate about algorithmic problem-solving, artificial intelligence, and open-source development.
 </p>
 
 *   **Primary Focus:** Frontend Development, Full-Stack Architecture, and Competitive Programming.
