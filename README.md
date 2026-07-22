@@ -10,24 +10,11 @@
 
 <br>
 
-<div align="center">
 
-[![CSE Student](https://img.shields.io/badge/KIET-CSE%20Undergraduate-27272a?style=for-the-badge&logo=codeforces&logoColor=fbbf24)](https://github.com/)
-[![Location](https://img.shields.io/badge/Location-Agra%2C%20India-18181b?style=for-the-badge&logo=googlemaps&logoColor=fbbf24)](https://github.com/)
-<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-27272a?style=for-the-badge&logo=linkedin&logoColor=fbbf24)](https://linkedin.com/in/madhav-vashistha-194306381)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-18181b?style=for-the-badge&logo=gmail&logoColor=fbbf24)](mailto:vashisthamadhav07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-27272a?style=for-the-badge&logo=github&logoColor=fbbf24)](https://github.com/Madhav-Vashistha)
-<br>
-[![Profile Views](https://komarev.com/ghpvc/?username=Madhav-Vashistha&color=27272a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/)
-[![Followers](https://img.shields.io/github/followers/Madhav-Vashistha?color=18181b&style=for-the-badge&logo=github&label=Followers)](https://github.com/Madhav-Vashistha?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Madhav-Vashistha?color=27272a&style=for-the-badge&logo=github&label=Stars)](https://github.com/Madhav-Vashistha?tab=repositories)
-
-</div>
 
 ---
 
-## 🚀 About Section
+## About Section
 
 <p align="justify">
 I am <b>Madhav Vashistha</b>, a Computer Science and Engineering undergraduate at KIET Group of Institutions with a strong foundation in software engineering, frontend architecture, and competitive programming. My technical expertise spans C/C++, Python, JavaScript, and modern web frameworks like React, Next.js, and Node.js. Driven by a product-engineering mindset, I specialize in building responsive web applications, secure cloud integrations, and robust automated systems. I am deeply passionate about algorithmic problem-solving, artificial intelligence, and open-source development.
@@ -39,7 +26,7 @@ I am <b>Madhav Vashistha</b>, a Computer Science and Engineering undergraduate a
 
 ---
 
-## 🛠️ Tech Stack Section
+##  Tech Stack Section
 
 <div align="center">
 
