@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:222222&height=220&section=header&text=Madhav%20Vashistha&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%" />
-</h1>
+
 
 <div align="center">
 
