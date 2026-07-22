@@ -17,7 +17,7 @@
 ## About Section
 
 <p align="justify">
-I am <b>Madhav Vashistha</b>, a Computer Science and Engineering undergraduate at KIET Group of Institutions with a strong foundation in software engineering, frontend architecture, and competitive programming. My technical expertise spans C/C++, Python, JavaScript, and modern web frameworks like React, Next.js, and Node.js. Driven by a product-engineering mindset, I specialize in building responsive web applications, secure cloud integrations, and robust automated systems. I am deeply passionate about algorithmic problem-solving, artificial intelligence, and open-source development.
+I am <b>Madhav Vashistha</b>, a Computer Science and Engineering undergraduate with a strong foundation in software engineering, frontend architecture, and competitive programming. My technical expertise spans C/C++, Python, JavaScript, and modern web frameworks like React, Next.js, and Node.js. Driven by a product-engineering mindset, I specialize in building responsive web applications, secure cloud integrations, and robust automated systems. I am deeply passionate about algorithmic problem-solving, artificial intelligence, and open-source development.
 </p>
 
 *   **Primary Focus:** Frontend Development, Full-Stack Architecture, and Competitive Programming.
